@@ -1,0 +1,12 @@
+data flow
+
+router->controller->service->database
+
+no of operations
+CRUD
+C-create
+R-read
+U-update
+D-delete
+
+run the application-> python app.py
