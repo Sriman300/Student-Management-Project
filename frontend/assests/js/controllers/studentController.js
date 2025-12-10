@@ -6,7 +6,7 @@ import {
      apiDelete 
 } from "../services/studentService.js";
 
-// import { showAlert } from "../components/Alert.js";
+import { showAlert } from "../components/Alert.js";
 import { renderStudentTable } from "../components/StudentTable.js";
 import { resetForm, fillForm } from "../components/StudentForm.js";
 

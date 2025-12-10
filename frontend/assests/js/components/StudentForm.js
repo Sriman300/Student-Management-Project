@@ -24,5 +24,5 @@ export function fillForm(student) {
   $("submitBtn").textContent = "Update Student";
 
   // Show the "Cancel" button, allowing the user to exit 'edit' mode
-  $("cancelBtn").style.display = "inline-block";
+  $("cancelBtn").style.display = "block";
 }
