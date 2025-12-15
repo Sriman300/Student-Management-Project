@@ -1,6 +1,6 @@
 data flow
 
-router->controller->service->database
+router->controller->service->database->frontend
 
 no of operations
 CRUD
